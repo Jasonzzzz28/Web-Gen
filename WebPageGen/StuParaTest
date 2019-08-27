@@ -1,0 +1,9 @@
+    <p id="p1">
+       <img id="img2" src="A dog.jpg" width="35" height="48" alt="Dog Image">
+       Hi, I'm a dog
+    </p>
+SecondElement
+       <p style=no color>
+          Fear the turtle
+          <img src="A cat.jpg" width="55" height="66" alt="Cat Image">
+       </p>

@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+   <head lang="en">
+      <meta charset="utf-8"/>
+      <title>Example1</title>
+   </head>
+   <body>
+   <h1>Test</h1>
+   <p>
+      This is a picture!
+      <img src="pciture.jpg" width="500" height="500" alt="Picture Image" >
+      End of this picture!
+   </p>
+   </body>
+</html>
